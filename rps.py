@@ -1,3 +1,4 @@
+#Aditya Nain
 from random import randint
 
 print("....rock....")
@@ -11,7 +12,7 @@ c_score = 0
 
 
 while True:
-
+	#First to reach a score of 3 wins
 	if p_score==3 or c_score==3:
 		print(f"Player score : {p_score}")
 		print(f"Computer score: {c_score}\n")
@@ -44,7 +45,7 @@ while True:
 		else:
 			c = "scissors"
 
-		#First to reach a score of 3 wins	
+			
 		if p_score!=3 and c_score!=3:		
 			if(p==c):
 				print("Computer chose " + c +"\n")
