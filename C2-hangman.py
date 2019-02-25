@@ -1,6 +1,6 @@
 """ This is a prgram of hangman
     The user enters a word and tells the number of letters and the computer tries to guess
-    the word .It also shows the location of letters i the word
+    the word .It also shows the location of letters in the word
 """
 
 """
